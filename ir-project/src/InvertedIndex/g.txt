@@ -1,0 +1,29 @@
+ghi 1_1 3_9
+gia 1_1 2_1 3_1
+gian 2_2 3_3
+giantproblems 3_2
+giao 3_1
+giám 1_1
+giáo 1_2
+gió 2_1
+giúp 3_3
+giơ 1_1
+giả 3_2
+giải 1_1 2_1 3_2
+giản 3_4
+giống 3_2
+giới 1_2 2_1
+giờ 1_3 3_1
+guy 3_1
+gái 2_1
+gây 1_1
+gì 1_2 2_1 3_2
+góc 2_1
+gói 3_6
+gũi 2_1
+gạch 2_1
+gần 2_1
+gặp 1_3 3_1
+gọi 1_2 3_1
+gỗ 2_1
+gửi 1_1

@@ -1,0 +1,8 @@
+action 3_1
+actionscript 3_4
+ai 1_2 3_1
+api 3_1
+auto 3_3
+áo 1_1
+ăn 1_1 2_1
+ấn 3_1

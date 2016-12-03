@@ -1,0 +1,13 @@
+qua 2_2
+quan 1_2 3_1
+quanh 2_1
+quay 2_1
+quy 1_1
+quá 1_4 3_1
+quán 2_5
+quên 3_1
+quả 2_1 3_1
+quản 3_2
+quảng 1_1
+quần 1_1
+quận 1_1

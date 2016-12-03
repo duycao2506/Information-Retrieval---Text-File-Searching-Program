@@ -1,0 +1,94 @@
+ta 3_1
+tay 1_1
+text 3_1
+than 3_1
+thang 2_1
+thanh 1_6
+thay 3_2
+theo 1_2 2_1 3_2
+this 3_1
+thiết 2_1 3_4
+thiếu 1_5 3_1
+thiện 3_1
+thiệu 1_1
+thoáng 2_1
+thoại 1_7
+thoải 2_1
+thu 1_1
+thuộc 1_1 3_2
+thành 1_1
+tháng 1_1 3_1
+thân 3_1
+thêm 1_2 3_1
+thì 1_1
+thích 1_2 3_1
+thông 1_1 3_1
+thú 2_1 3_1
+thúc 1_1
+thư 3_3
+thường 1_1 3_2
+thả 3_1
+thảo 3_4
+thấy 1_2 2_1
+thẻ 3_1
+thế 1_1 2_1
+thể 1_3 3_8
+thị 2_1 3_1
+thọai 1_6
+thời 3_3
+thứ 1_1 2_1 3_2
+thức 2_1
+thử 2_1 3_3
+thực 2_1 3_2
+tin 1_1 3_1
+tiêu 1_3
+tiếp 2_1
+tiềm 1_1
+tiền 1_7
+tiện 3_2
+toán 1_2
+triển 3_5
+trong 1_5 3_18
+trung 1_4
+trà 2_1
+trách 1_1 3_2
+trên 3_3
+trình 1_1 3_5
+trí 3_1
+trò 1_1
+trù 1_2
+trưa 1_1
+trước 1_1 3_1
+trường 1_6
+trưởng 1_2
+trả 1_4
+trẻ 1_2
+trọng 1_1 3_1
+trở 1_2
+trợ 3_1
+tuyệt 3_1
+tuổi 1_3
+tuỳ 3_1
+tv 3_2
+ty 1_3
+tác 3_2
+tách 2_1
+tâm 3_1
+tên 1_1 3_3
+tí 1_1
+tích 3_1
+tính 1_2 3_4
+tôi 1_4
+túi 1_1
+tương 3_2
+tường 2_1
+tại 1_1 3_3
+tạo 2_1 3_6
+tạp 1_1
+tả 3_1
+tải 3_4
+tất 3_6
+tận 1_1
+tốt 3_1
+tức 3_1
+tự 3_4

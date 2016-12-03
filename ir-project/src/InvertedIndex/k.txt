@@ -1,0 +1,31 @@
+kem 2_2
+khi 1_5 3_9
+khoản 1_2
+khoảng 3_1
+khung 3_7
+khuyên 1_1
+khá 2_1
+khác 1_3 2_2 3_1
+khách 1_2
+khám 2_1
+khát 2_1
+khéo 2_1
+khó 1_2
+không 1_7 2_3 3_9
+khăn 1_1
+khả 1_1 3_4
+khắc 1_1
+khối 3_2
+kiếm 1_1
+kiểm 1_2
+kiểu 3_2
+kèm 3_1
+kéo 3_1
+kê 3_1
+kính 2_1
+kế 1_1 2_1 3_1
+kết 1_1
+kể 3_1
+kệch 1_1
+kịch 3_3
+kỳ 3_2

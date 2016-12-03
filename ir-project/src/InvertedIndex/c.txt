@@ -1,0 +1,82 @@
+cam 2_1
+camera 1_1
+cent 1_1
+cha 1_1
+chanh 2_2
+chat 3_1
+chia 3_1
+chiếc 1_4 2_1
+chiếm 3_2
+cho 1_6 3_14
+chocolate 2_1
+chui 1_1
+chuyên 3_1
+chuyện 1_4
+chuông 1_1
+chuỵên 1_1
+cháo 1_1
+chân 2_1
+châu 2_1
+chính 1_1
+chú 3_9
+chúng 1_6 2_1 3_1
+chưa 1_1
+chương 1_1
+chạy 3_1
+chấp 1_2
+chắc 2_1 3_1
+chắn 2_1
+chẳng 1_1
+chế 1_1 2_1 3_1
+chỉ 2_2 3_9
+chịu 1_1 3_1
+chọn 3_1
+chỗ 3_1
+chợt 2_3
+chứa 3_1
+chức 1_1 3_1
+chữ 3_1
+class 3_1
+co 3_1
+coast 1_1
+com 3_1
+con 1_3
+create 3_1
+creator 3_1
+css 3_1
+cung 3_2
+custom 3_1
+cuộc 1_1
+cà 2_2
+cài 1_1 3_3
+các 1_10 2_2 3_14
+cách 1_2 2_1 3_1
+cái 1_1
+cánh 2_1
+cáo 1_1
+câu 3_1
+còn 1_1 2_1 3_2
+có 1_12 2_6 3_21
+cô 1_3 2_1
+công 1_3 3_13
+cùng 3_1
+cú 3_1
+cũng 1_4 2_3 3_3
+cơm 2_1
+cước 1_2 2_1
+cả 3_7
+cảm 2_1
+cấm 1_1
+cấp 1_1 3_2
+cần 2_1 3_9
+cầu 3_1
+cậu 1_1
+cố 1_2
+cỡ 1_1
+cỡm 1_1
+cụ 3_10
+của 1_6 2_2 3_10
+cứ 2_1 3_1
+cứu 1_1
+cửa 2_3 3_6
+cực 3_1

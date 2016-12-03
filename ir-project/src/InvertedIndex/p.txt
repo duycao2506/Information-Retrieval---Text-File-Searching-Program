@@ -1,0 +1,28 @@
+panels 3_2
+pc 3_1
+pha 2_1
+phim 3_1
+phiên 3_3
+phiền 3_1
+phong 1_1 2_1
+php 3_2
+phá 2_1
+pháp 3_3
+phát 3_5
+phân 1_1
+phép 3_4
+phê 2_2
+phí 3_4
+phòng 1_1
+phú 2_1
+phút 1_2 3_1
+phải 1_3 3_2
+phần 1_1 3_1
+phẩm 1_2 3_1
+phổ 1_1
+phụ 1_2 3_1
+phục 2_1
+phức 1_1
+preferences 3_1
+professional 3_1
+python 3_1

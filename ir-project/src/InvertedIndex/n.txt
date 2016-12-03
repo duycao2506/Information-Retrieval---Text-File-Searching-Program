@@ -1,0 +1,60 @@
+nay 1_1
+net 3_1
+ngay 3_4
+nghiêm 1_1
+nghiên 1_1
+nghĩa 3_2
+ngoài 2_1 3_1
+ngoặc 3_2
+nguồn 3_1
+ngày 3_1
+ngăn 2_1
+người 1_3 2_1 3_5
+ngược 3_1
+ngạc 1_1
+ngồi 2_2
+ngờ 1_1
+ngửa 1_2
+nhanh 2_1
+nhiên 1_1
+nhiều 1_3 2_1 3_4
+nhiệm 1_1 3_2
+nho 2_1
+nhuận 1_1
+nhà 1_3 2_1 3_3
+nhé 1_1
+nhóm 3_1
+như 1_3 2_1 3_10
+nhưng 1_1 2_2 3_3
+nhạc 1_2 2_1
+nhấn 3_5
+nhất 3_1
+nhận 1_1 3_1
+nhập 3_2
+nhắn 1_1
+nhịn 1_1
+nhỏ 2_1
+nhớ 2_3
+những 1_3 2_4 3_2
+niên 1_4
+note 3_4
+notes 3_5
+nào 1_1
+này 1_5 3_3
+nét 2_1
+nên 1_2 2_1 3_1
+níu 2_1
+nó 1_1 3_3
+nói 1_8
+năng 1_4 3_8
+nơi 1_1
+nấu 1_1
+nắng 2_1
+nằm 1_1
+nếu 1_1
+nối 1_1
+nồng 2_1
+nỗi 1_1
+nửa 1_1
+nữ 1_1
+nữa 2_1 3_2
